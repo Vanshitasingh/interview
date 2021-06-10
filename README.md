@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). I have created a Navbar wherein two tabs are mentioned namely- Table and Chart. A functional search bar is added just below it.  
 
 ## Available Scripts
 
