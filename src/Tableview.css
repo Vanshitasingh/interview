@@ -1,0 +1,15 @@
+.head{
+    background-color: #1EAE98;
+    color: #fff;
+}
+.t{
+    margin-top: 10px;
+}
+a {
+    color: inherit;
+    text-decoration: inherit;
+  }
+.search{
+    padding: 5px;
+    height: 50px;
+}
